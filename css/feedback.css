@@ -124,7 +124,7 @@ header {
 
 .divider {
     
-    margin: 0px 0px 0px 0px;
+    margin: - 50px 0px 0px 0px;
 }
 
 .content {
@@ -850,7 +850,8 @@ line-height: 20px;
 	
 		
 	}
-	.footer__itrak-text {
+	 
+.footer__itrak-text {
 		
 	}
 
